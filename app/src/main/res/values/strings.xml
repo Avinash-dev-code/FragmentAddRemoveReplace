@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentAddnRemoveProgram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">I am Replace</string>
+    <string name="hello_avinash">I am Add</string>
+</resources>
